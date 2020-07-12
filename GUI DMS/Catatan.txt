@@ -1,0 +1,5 @@
+Continuous reading data visual c#:
+https://stackoverflow.com/questions/18962900/serial-port-communication-in-visual-studio-c-sharp
+
+Continuous reading data visual c# another way:
+https://www.youtube.com/watch?v=scpvrDLa1oY&t=261s
