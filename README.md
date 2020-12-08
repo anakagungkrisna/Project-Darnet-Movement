@@ -6,3 +6,5 @@ This project consist of the Graphical User Interface (GUI) and the serial protoc
 
 Upload the arduino code provided in the Serial_Read_OpenCM file using the OpenCM IDE provided in ROBOTIS website
 To use the GUI, download the GUI DMS folder, then go to bin, then debug, then run application
+
+
